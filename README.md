@@ -129,5 +129,10 @@ The repositories tell the story: ideas, iterations, and lessons along the way.
 </p>
 </details>
 
-<br />
-<a href="https://github.com/anishsinha5280-source"><img src="./assets/footer.svg" width="1200" alt="Learn continuously. Build deliberately. Test responsibly." /></a>
+---
+
+<p align="center">
+  <a href="https://github.com/anishsinha5280-source"><img src="./assets/footer.svg" width="1200" alt="Learn continuously. Build deliberately. Test responsibly." /></a>
+  <br /><br />
+  <a href="https://github.com/anishsinha5280-source">github.com/anishsinha5280-source</a>
+</p>
