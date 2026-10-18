@@ -1,106 +1,94 @@
-<!--
-GitHub profile README for https://github.com/anishsinha5280-source
-Place this file as README.md in a public repository named anishsinha5280-source.
-Project cards without repository links describe work that is not linked publicly here.
--->
+<!-- Upload this README and the complete assets folder to the root of the public anishsinha5280-source profile repository. -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1D4ED8,100:06B6D4&height=190&section=header&text=Anish%20Sinha&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20%7C%20Cybersecurity%20%7C%20Software%20Engineering&descAlignY=58&descSize=15" alt="Anish Sinha profile banner" width="100%" />
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/hero-static.png" />
+    <img src="./assets/hero.gif" width="1200" alt="Anish Sinha — Computer Science at VIT, specializing in Cybersecurity. Animated terminal and radar." />
+  </picture>
 </p>
 
 <p align="center">
-  <a href="https://github.com/anishsinha5280-source">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&height=55&lines=Building+projects%2C+one+commit+at+a+time;Exploring+Cybersecurity+%26+Networks;Learning+by+building+and+breaking+things+in+labs;Turning+ideas+into+working+software" alt="Animated typing introduction" />
-  </a>
+  <a href="https://github.com/anishsinha5280-source?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_WORK-c3f85c?style=for-the-badge&amp;logo=github&amp;logoColor=080d17" alt="Explore my repositories" /></a>
+  <a href="https://www.linkedin.com/in/anish-sinha-cybersec/"><img src="https://img.shields.io/badge/LET%27S_CONNECT-5ce1e6?style=for-the-badge&amp;logo=linkedin&amp;logoColor=080d17" alt="Connect on LinkedIn" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/anishsinha5280-source?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Repositories-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
-  <a href="https://www.linkedin.com/in/anish-sinha-cybersec/"><img src="https://img.shields.io/badge/Connect-LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
+  <a href="#01--the-person-behind-the-terminal">ABOUT</a> &nbsp; / &nbsp;
+  <a href="#02--the-toolkit">TOOLKIT</a> &nbsp; / &nbsp;
+  <a href="#03--selected-builds">BUILDS</a> &nbsp; / &nbsp;
+  <a href="#04--inside-the-lab">LAB</a> &nbsp; / &nbsp;
+  <a href="#05--commit-trail">ACTIVITY</a>
 </p>
 
-<p align="center">
-  <a href="#about-me">About</a> ·
-  <a href="#tools-i-work-with">Tech Stack</a> ·
-  <a href="#featured-projects">Projects</a> ·
-  <a href="#github-at-a-glance">GitHub Stats</a> ·
-  <a href="#currently-learning">Currently Learning</a>
-</p>
+<img src="./assets/divider.svg" width="1200" alt="" />
 
----
+## 01 / The person behind the terminal
 
-<a id="about-me"></a>
-## `whoami`  About Me
-
-I’m a second-year **Computer Science and Engineering student at VIT**, specializing in **Cybersecurity**. I enjoy working across software development, networks, databases, and security research. I learn best by building practical projects, testing ideas in controlled environments, and documenting what works.
+I’m a second-year**Computer Science and Engineering student at VIT**, specializing in **Cybersecurity**. I enjoy working across software development, networks, databases, and security research. I learn best by building practical projects, testing ideas in controlled environments, and documenting what works.
 
 - **Core interests:** cybersecurity, network security, software engineering, and database systems
 - **Currently exploring:** machine learning and reproducible evaluations of AI-assisted security tools
 - **Community:** Junior Core Member at the **Whitehats Club**
 - **Approach:** build it, test it, understand it, improve it
 
-<a id="tools-i-work-with"></a>
-## `./tech-stack.sh`  Tools I Work With
+<img src="./assets/divider.svg" width="1200" alt="" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-</p>
+## 02 / The toolkit
 
-<a id="featured-projects"></a>
-## `ls ./projects`  Featured Projects
+| Area | Tools I work with |
+| :--- | :--- |
+| **Languages** | C · C++ · Python · Java · SQL · JavaScript · TypeScript |
+| **Web development** | React |
+| **Systems & security** | Linux · Wireshark |
+| **Data & workflow** | Microsoft SQL Server · Git |
 
-<details open>
-  <summary><b>Cyber-ROI: Vulnerability Risk Prioritization</b> — TypeScript</summary>
-  <br />
-  A cybersecurity project focused on vulnerability-risk prioritization, helping organize security findings by risk so the most important issues can be addressed first.
-  <br /><br />
-  **Stack:** TypeScript
-  <br />
-  **Repository:** <a href="https://github.com/anishsinha5280-source/Cyber-ROI-Vulnerability-Risk-Prioritization">View source</a>
-</details>
+<img src="./assets/divider.svg" width="1200" alt="" />
 
-<details>
-  <summary><b>CampusPass — QR Event Ticketing System</b> — Full-Stack Web Application</summary>
-  <br />
-  A full-stack campus event platform where students can discover events and register to receive signed QR tickets by email. Organizers can scan tickets at the gate, with backend checks to prevent duplicate check-ins and enforce event capacity.
-  <br /><br />
-  **Stack:** Next.js · React · TypeScript · PostgreSQL · Drizzle ORM · JWT · QR scanning
-  <br />
-  **Repository:** <a href="https://github.com/anishsinha5280-source/qr-ticketing-system">View source</a>
-</details>
+## 03 / Selected builds
 
-<details>
-  <summary><b>Neon Rift — Wave Survival</b> — Game Development</summary>
-  <br />
-  A neon top-down arena survival game with procedurally scaling enemy waves, three enemy archetypes with distinct AI, object pooling, persistent settings and high scores. Includes a Godot desktop game and a React/TypeScript browser preview.
-  <br /><br />
-  **Stack:** Godot 4 · GDScript · React · TypeScript · Vite · HTML Canvas
-  <br />
-  **Repository:** <a href="https://github.com/anishsinha5280-source/neon_rift_survival_game">View source</a>
-</details>
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>01 &nbsp; Cyber-ROI</h3>
+<p><strong>Vulnerability Risk Prioritization</strong></p>
+<p>Organizing vulnerability findings by risk so the most important issues can be addressed first.</p>
+<p><code>TypeScript</code></p>
+<a href="https://github.com/anishsinha5280-source/Cyber-ROI-Vulnerability-Risk-Prioritization"><strong>Explore source →</strong></a>
+</td>
+<td width="50%" valign="top">
+<h3>02 &nbsp; CampusPass</h3>
+<p><strong>QR Event Ticketing System</strong></p>
+<p>Campus events, signed QR tickets by email, and gate check-ins with duplicate and capacity checks.</p>
+<p><code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>Drizzle ORM</code> <code>JWT</code> <code>QR scanning</code></p>
+<a href="https://github.com/anishsinha5280-source/qr-ticketing-system"><strong>Explore source →</strong></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>03 &nbsp; Neon Rift</h3>
+<p><strong>Wave Survival</strong></p>
+<p>A neon arena survival game with scaling waves, three enemy archetypes, object pooling, persistent settings and high scores. Includes desktop and browser versions.</p>
+<p><code>Godot 4</code> <code>GDScript</code> <code>React</code> <code>TypeScript</code> <code>Vite</code> <code>HTML Canvas</code></p>
+<a href="https://github.com/anishsinha5280-source/neon_rift_survival_game"><strong>Explore source →</strong></a>
+</td>
+<td width="50%" valign="top">
+<h3>04 &nbsp; EV Charging Engine</h3>
+<p><strong>Intelligent EV Charging and Depot Management</strong></p>
+<p>Coordinating EV charging, fleet reservations, and depot/grid capacity through a relational schema and reservation workflows.</p>
+<p><code>Microsoft SQL Server</code> <code>SQL</code> <code>Stored Procedures</code> <code>Triggers</code></p>
+<p><em>Repository not linked publicly here.</em></p>
+</td>
+</tr>
+</table>
 
-<details>
-  <summary><b>Intelligent EV Charging and Depot Management Engine</b> — Database Systems</summary>
-  <br />
-  A database-backed project focused on coordinating EV charging, fleet reservations, and depot/grid capacity. The SQL Server implementation includes a relational schema, triggers, and stored procedures for reservation workflows.
-  <br /><br />
-  **Stack:** Microsoft SQL Server · SQL · Stored Procedures · Triggers
-  <br />
-</details>
+<img src="./assets/divider.svg" width="1200" alt="" />
+
+## 04 / Inside the lab
+
+Learning through controlled experiments, practical builds, and research.
 
 <details>
-  <summary><b>Adaptive University Research Network</b> — Context-Aware Access Control</summary>
+<summary><b>Adaptive University Research Network</b> — Context-Aware Access Control</summary>
   <br />
   A network-security project concept for connecting university labs, faculty, students, and servers using VLANs, routing, ACLs, and firewall rules, with access decisions informed by context.
   <br /><br />
@@ -109,7 +97,7 @@ I’m a second-year **Computer Science and Engineering student at VIT**, special
 </details>
 
 <details>
-  <summary><b>AI-Assisted Security Evaluation</b> — Research in Progress</summary>
+<summary><b>AI-Assisted Security Evaluation</b> — Research in Progress</summary>
   <br />
   Exploring reproducible ways to compare LLM-assisted agents on security tasks inside isolated, controlled web and network labs. The emphasis is on repeatable experiments, clear evaluation criteria, and responsible testing.
   <br /><br />
@@ -117,44 +105,29 @@ I’m a second-year **Computer Science and Engineering student at VIT**, special
 </details>
 
 <details>
-  <summary><b>AI-Assisted OSINT, Privacy and Law</b> — Research in Progress</summary>
+<summary><b>AI-Assisted OSINT, Privacy and Law</b> — Research in Progress</summary>
   <br />
   Studying how AI-assisted collection and correlation of public online information can affect privacy, and how existing legal frameworks address the risks of persistent monitoring and profiling.
   <br /><br />
   **Focus:** OSINT · Privacy · Responsible data use · Legal and ethical analysis
 </details>
 
-<a id="github-at-a-glance"></a>
-## `git status`  GitHub at a Glance
+<img src="./assets/divider.svg" width="1200" alt="" />
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anishsinha5280-source&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishsinha5280-source&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Most used languages" />
-</p>
+## 05 / Commit trail
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=anishsinha5280-source&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" width="70%" />
-</p>
+The repositories tell the story: ideas, iterations, and lessons along the way.
+
+**[Browse repositories →](https://github.com/anishsinha5280-source?tab=repositories)** &nbsp; · &nbsp; **[View contribution history →](https://github.com/anishsinha5280-source)**
 
 <details>
-  <summary><b>Contribution activity graph</b></summary>
-  <br />
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=anishsinha5280-source&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
-  </p>
+<summary><strong>Open live GitHub statistics</strong></summary>
+<br />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anishsinha5280-source&amp;show_icons=true&amp;hide_border=true&amp;bg_color=080d17&amp;title_color=c3f85c&amp;icon_color=5ce1e6&amp;text_color=bdc9db" alt="GitHub statistics, provided by an external service" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishsinha5280-source&amp;layout=compact&amp;hide_border=true&amp;bg_color=080d17&amp;title_color=c3f85c&amp;text_color=bdc9db" alt="Most used repository languages, provided by an external service" width="49%" />
+</p>
 </details>
 
-<a id="currently-learning"></a>
-## `./currently-learning`
-
-- Strengthening data structures and algorithms through regular problem solving
-- Building practical foundations in networking and application security
-- Exploring machine learning and how to evaluate AI tools carefully
-
----
-
-<p align="center">
-  <i>Learn continuously. Build deliberately. Test responsibly.</i>
-  <br /><br />
-  <a href="https://github.com/anishsinha5280-source">github.com/anishsinha5280-source</a>
-</p>
+<br />
+<a href="https://github.com/anishsinha5280-source"><img src="./assets/footer.svg" width="1200" alt="Learn continuously. Build deliberately. Test responsibly." /></a>
