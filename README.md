@@ -17,7 +17,6 @@ Project cards without repository links describe work that is not linked publicly
 <p align="center">
   <a href="https://github.com/anishsinha5280-source?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Repositories-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
   <a href="https://www.linkedin.com/in/anish-sinha-cybersec/"><img src="https://img.shields.io/badge/Connect-LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
-  <img src="https://komarev.com/ghpvc/?username=anishsinha5280-source&style=for-the-badge&color=0891b2" alt="Profile views" />
 </p>
 
 <p align="center">
@@ -62,11 +61,11 @@ I’m a second-year **Computer Science and Engineering student at VIT**, special
 ## `ls ./projects`  Featured Projects
 
 <details open>
-  <summary><b>Cyber ROI</b> — React + TypeScript</summary>
+  <summary><b>Cyber-ROI: Vulnerability Risk Prioritization</b> — TypeScript</summary>
   <br />
-  A web project built with React and TypeScript. See the source repository for the current features and implementation details.
+  A cybersecurity project focused on vulnerability-risk prioritization, helping organize security findings by risk so the most important issues can be addressed first.
   <br /><br />
-  **Stack:** React · TypeScript
+  **Stack:** TypeScript
   <br />
   **Repository:** <a href="https://github.com/anishsinha5280-source/Cyber-ROI-Vulnerability-Risk-Prioritization">View source</a>
 </details>
