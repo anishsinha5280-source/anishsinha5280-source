@@ -71,6 +71,26 @@ I’m a second-year **Computer Science and Engineering student at VIT**, special
 </details>
 
 <details>
+  <summary><b>CampusPass — QR Event Ticketing System</b> — Full-Stack Web Application</summary>
+  <br />
+  A full-stack campus event platform where students can discover events and register to receive signed QR tickets by email. Organizers can scan tickets at the gate, with backend checks to prevent duplicate check-ins and enforce event capacity.
+  <br /><br />
+  **Stack:** Next.js · React · TypeScript · PostgreSQL · Drizzle ORM · JWT · QR scanning
+  <br />
+  **Repository:** <a href="https://github.com/anishsinha5280-source/qr-ticketing-system">View source</a>
+</details>
+
+<details>
+  <summary><b>Neon Rift — Wave Survival</b> — Game Development</summary>
+  <br />
+  A neon top-down arena survival game with procedurally scaling enemy waves, three enemy archetypes with distinct AI, object pooling, persistent settings and high scores. Includes a Godot desktop game and a React/TypeScript browser preview.
+  <br /><br />
+  **Stack:** Godot 4 · GDScript · React · TypeScript · Vite · HTML Canvas
+  <br />
+  **Repository:** <a href="https://github.com/anishsinha5280-source/neon_rift_survival_game">View source</a>
+</details>
+
+<details>
   <summary><b>Intelligent EV Charging and Depot Management Engine</b> — Database Systems</summary>
   <br />
   A database-backed project focused on coordinating EV charging, fleet reservations, and depot/grid capacity. The SQL Server implementation includes a relational schema, triggers, and stored procedures for reservation workflows.
