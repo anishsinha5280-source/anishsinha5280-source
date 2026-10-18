@@ -144,12 +144,6 @@ I’m a second-year **Computer Science and Engineering student at VIT**, special
   </p>
 </details>
 
-<a id="currently-learning"></a>
-## `./currently-learning`
-
-- Strengthening data structures and algorithms through regular problem solving
-- Building practical foundations in networking and application security
-- Exploring machine learning and how to evaluate AI tools carefully
 
 ---
 
