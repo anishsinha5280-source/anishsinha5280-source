@@ -13,25 +13,31 @@
 </p>
 
 <p align="center">
-  <a href="#01--the-person-behind-the-terminal">ABOUT</a> &nbsp; / &nbsp;
-  <a href="#02--the-toolkit">TOOLKIT</a> &nbsp; / &nbsp;
-  <a href="#03--selected-builds">BUILDS</a> &nbsp; / &nbsp;
-  <a href="#04--inside-the-lab">LAB</a> &nbsp; / &nbsp;
-  <a href="#05--commit-trail">ACTIVITY</a>
+  <a href="#01--the-person-behind-the-terminal"><picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/nav-about-static.png" /><img src="./assets/nav-about.gif" width="112" height="44" alt="About — jump to section" /></picture></a>
+  <a href="#02--the-toolkit"><picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/nav-toolkit-static.png" /><img src="./assets/nav-toolkit.gif" width="112" height="44" alt="Toolkit — jump to section" /></picture></a>
+  <a href="#03--selected-builds"><picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/nav-builds-static.png" /><img src="./assets/nav-builds.gif" width="112" height="44" alt="Builds — jump to section" /></picture></a>
+  <a href="#04--inside-the-lab"><picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/nav-lab-static.png" /><img src="./assets/nav-lab.gif" width="112" height="44" alt="Lab — jump to section" /></picture></a>
+  <a href="#05--commit-trail"><picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/nav-activity-static.png" /><img src="./assets/nav-activity.gif" width="112" height="44" alt="Activity — jump to section" /></picture></a>
 </p>
 
-<img src="./assets/divider.svg" width="1200" alt="" />
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/section-1-static.png" />
+  <img src="./assets/section-1.gif" width="1200" alt="Identity — animated circuit background" />
+</picture>
 
 ## 01 / The person behind the terminal
 
-I’m a second-year**Computer Science and Engineering student at VIT**, specializing in **Cybersecurity**. I enjoy working across software development, networks, databases, and security research. I learn best by building practical projects, testing ideas in controlled environments, and documenting what works.
+I’m a second-year **Computer Science and Engineering student at VIT**, specializing in **Cybersecurity**. I enjoy working across software development, networks, databases, and security research. I learn best by building practical projects, testing ideas in controlled environments, and documenting what works.
 
 - **Core interests:** cybersecurity, network security, software engineering, and database systems
 - **Currently exploring:** machine learning and reproducible evaluations of AI-assisted security tools
 - **Community:** Junior Core Member at the **Whitehats Club**
 - **Approach:** build it, test it, understand it, improve it
 
-<img src="./assets/divider.svg" width="1200" alt="" />
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/section-2-static.png" />
+  <img src="./assets/section-2.gif" width="1200" alt="Toolkit — animated circuit background" />
+</picture>
 
 ## 02 / The toolkit
 
@@ -42,7 +48,10 @@ I’m a second-year**Computer Science and Engineering student at VIT**, speciali
 | **Systems & security** | Linux · Wireshark |
 | **Data & workflow** | Microsoft SQL Server · Git |
 
-<img src="./assets/divider.svg" width="1200" alt="" />
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/section-3-static.png" />
+  <img src="./assets/section-3.gif" width="1200" alt="Selected Work — animated circuit background" />
+</picture>
 
 ## 03 / Selected builds
 
@@ -81,7 +90,10 @@ I’m a second-year**Computer Science and Engineering student at VIT**, speciali
 </tr>
 </table>
 
-<img src="./assets/divider.svg" width="1200" alt="" />
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/section-4-static.png" />
+  <img src="./assets/section-4.gif" width="1200" alt="Research Lab — animated circuit background" />
+</picture>
 
 ## 04 / Inside the lab
 
@@ -112,7 +124,10 @@ Learning through controlled experiments, practical builds, and research.
   **Focus:** OSINT · Privacy · Responsible data use · Legal and ethical analysis
 </details>
 
-<img src="./assets/divider.svg" width="1200" alt="" />
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/section-5-static.png" />
+  <img src="./assets/section-5.gif" width="1200" alt="Contributions — animated circuit background" />
+</picture>
 
 ## 05 / Commit trail
 
@@ -129,10 +144,5 @@ The repositories tell the story: ideas, iterations, and lessons along the way.
 </p>
 </details>
 
----
-
-<p align="center">
-  <a href="https://github.com/anishsinha5280-source"><img src="./assets/footer.svg" width="1200" alt="Learn continuously. Build deliberately. Test responsibly." /></a>
-  <br /><br />
-  <a href="https://github.com/anishsinha5280-source">github.com/anishsinha5280-source</a>
-</p>
+<br />
+<a href="https://github.com/anishsinha5280-source"><img src="./assets/footer.svg" width="1200" alt="Learn continuously. Build deliberately. Test responsibly." /></a>
